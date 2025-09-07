@@ -1,4 +1,2 @@
 /dataset
-/codes/densenet201_finetuned_model.h5
-/codes/resnet50_finetuned_model.h5
-/codes/vgg16_finetuned_model.h5
+*.h5
